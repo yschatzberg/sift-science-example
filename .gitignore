@@ -1,0 +1,15 @@
+# ng dist folder
+ng
+plugin
+
+# generated config file
+config.js
+
+# vars
+.env
+
+node_modules
+
+bower_components
+
+.DS_Store
